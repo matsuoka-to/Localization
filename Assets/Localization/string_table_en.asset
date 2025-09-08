@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: string_table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: bad1c3a0f63aa4c83b745dcc1f5d461d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11742994432
+    m_Localized: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46223355535360
+    m_Localized: Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46265076277248
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46310429286400
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46359322288128
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46408306380800
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46457299374080
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46506292367360
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46555285360640
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46604278353920
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46653271347200
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46702264340480
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46751257333760
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46800250327040
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46849243320320
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46898236313600
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46947229306880
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46996222300160
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47045215293440
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47094208286720
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297428086415360
+    m_Localized: English(en)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47143201280000
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47192194273280
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47241187266560
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47290180259840
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47339173253120
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47388166246400
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47437159239680
+    m_Localized: About
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47486152232960
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47535145226240
+    m_Localized: High Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47584138219520
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47633131212800
+    m_Localized: Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47682124206080
+    m_Localized: Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47731117199360
+    m_Localized: Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47780110192640
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47829103185920
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47878096179200
+    m_Localized: Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47927089172480
+    m_Localized: Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47976082165760
+    m_Localized: Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48025075159040
+    m_Localized: Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48074068152320
+    m_Localized: Ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48123061145600
+    m_Localized: Magic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48172054138880
+    m_Localized: Spell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48221047132160
+    m_Localized: Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48270040125440
+    m_Localized: Defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48319033118720
+    m_Localized: HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48368026112000
+    m_Localized: MP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48417019105280
+    m_Localized: EXP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48466012098560
+    m_Localized: Level Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48515005091840
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48563998085120
+    m_Localized: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48612991078400
+    m_Localized: Bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48661984071680
+    m_Localized: Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48710977064960
+    m_Localized: Penalty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48759970058240
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48808963051520
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48857956044800
+    m_Localized: Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48906949038080
+    m_Localized: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48955942031360
+    m_Localized: Enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49004935024640
+    m_Localized: Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49053928017920
+    m_Localized: NPC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49102921011200
+    m_Localized: Ally
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49151914004480
+    m_Localized: Friend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49200906997760
+    m_Localized: Guild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49249899991040
+    m_Localized: Party
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49298892984320
+    m_Localized: Team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49347885977600
+    m_Localized: Single Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49396878970880
+    m_Localized: Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49445871964160
+    m_Localized: Online
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49494864957440
+    m_Localized: Offline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49543857950720
+    m_Localized: Co-op
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49592850944000
+    m_Localized: PvP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49641843937280
+    m_Localized: Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49690836930560
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49739829923840
+    m_Localized: Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49788822917120
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49837815910400
+    m_Localized: Very Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49886808903680
+    m_Localized: Extreme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49935801896960
+    m_Localized: Custom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49984794890240
+    m_Localized: Rank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50033787883520
+    m_Localized: Grade
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
